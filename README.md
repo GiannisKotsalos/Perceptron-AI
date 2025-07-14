@@ -1,4 +1,4 @@
-Perceptron Classifier in C++
+**Perceptron Classifier in C++**
 
 This repository provides a simple yet complete implementation of a Perceptron, one of the most fundamental tools in Artificial Intelligence (AI) and Machine Learning. Written entirely in C++, it walks through every step — from reading data to training the model and evaluating its accuracy.
 
