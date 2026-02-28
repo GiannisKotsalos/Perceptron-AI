@@ -5,7 +5,7 @@ This repository provides a simple yet complete implementation of a Perceptron, o
  Purpose : 
 The goal of this project is to understand how linear classifiers like Perceptrons operate under the hood — covering:
 
-- Data loading from CSV files
+
 - Vectorized training using the perceptron learning rule
 - Binary prediction using learned weights and bias
 - Accuracy calculation and model evaluation
